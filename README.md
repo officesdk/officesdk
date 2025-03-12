@@ -8,7 +8,6 @@
 
 ✨ **Live Demo** → [Try Now](https://officesdk.com)  
 📚 **Documentation** → [Developer Guide](https://officesdk.com/developer)  
-🛒 **Pricing** → [View Plans](https://officesdk.com/pricing)
 
 ## 🎯 Why Choose Office SDK?
 
@@ -65,6 +64,10 @@
 - Comprehensive documentation
 - Regular updates and improvements
 - Active developer community
+
+## 📞 Contact
+
+- **Website**: [officesdk.com](https://officesdk.com)
 
 ## 📄 License
 
