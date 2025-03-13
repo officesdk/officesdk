@@ -2,12 +2,10 @@
 
 **Professional Document Viewer & Editing SDK | 🚀 Streamline Document Workflows with 99.9% Format Fidelity**
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/office-sdk?style=for-the-badge)](https://github.com/yourusername/office-sdk/stargazers)
-[![Documentation](https://img.shields.io/badge/docs-latest-green?style=for-the-badge)](https://docs.officesdk.com)
-[![License](https://img.shields.io/badge/license-Commercial-blue?style=for-the-badge)](https://officesdk.com/license)
-
-✨ **Live Demo** → [Try Now](https://officesdk.com)  
-📚 **Documentation** → [Developer Guide](https://officesdk.com/developer)  
+[![GitHub Stars](https://img.shields.io/github/stars/officesdk/officesdk?style=for-the-badge)](https://github.com/officesdk/officesdk/stargazers)
+[![Documentation](https://img.shields.io/badge/docs-latest-green?style=for-the-badge)](https://officesdk.com/developer)
+[![License](https://img.shields.io/badge/license-Commercial-blue?style=for-the-badge)](https://officesdk.com/license/pricing)
+ 
 
 ## 🎯 Why Choose Office SDK?
 
