@@ -12,12 +12,10 @@
 | Feature                  | Office SDK               | Alternatives            |
 |--------------------------|--------------------------|-------------------------|
 | File Size Support        | ✅ **500MB+** Documents  | ❌ 25MB Limits          |
-| Format Coverage          | 30+ Document Formats     | 8-10 Basic Formats      |
 | API Response Time        | <200ms                   | 1-2s Typical            |
 | Watermark Control        | Pixel-perfect Placement  | Basic Stamping          |
 | Client Requirements      | No MS Office Installation | Often Requires Office   |
 | Server Requirements      | Zero Dependencies        | Complex Setup Required  |
-| Multi-platform Support   | Web, Mobile, Desktop     | Limited Platform Support|
 
 ## 🚀 Key Features
 
@@ -27,7 +25,6 @@
 - **Advanced Editing Capabilities**: Full document editing with format preservation
 - **Rich Annotation Tools**: Comments, highlighting, drawing, and more
 - **Format Conversion**: Convert between formats with high fidelity
-- **Collaborative Editing**: Real-time collaboration with conflict resolution
 - **Enterprise-Grade Security**: Secure document handling with DRM support
 - **Customizable UI**: Easily theme and brand the viewer to match your application
 - **Comprehensive API**: Robust JavaScript API for deep integration
